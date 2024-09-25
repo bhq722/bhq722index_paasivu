@@ -1,0 +1,90 @@
+h1 {
+
+    text-align: center;
+    font-size: 40px;
+    color: rgb(60, 60, 60);
+    background-color: rgb(212, 212, 212);
+    letter-spacing: 5px;
+    text-shadow: 2px 4px 4px rgba(71, 71, 71, 0.6);
+    border: 2px solid rgb(0, 0, 0);
+
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 30px;
+
+}
+
+.navg {
+
+    border: 2px solid rgb(60, 60, 60);
+    background-color: rgb(212, 212, 212);
+
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-right: 25px;
+    margin-left: 0px;
+
+    padding-top: 20px;
+    padding-bottom: 300px;
+    padding-right: 125px;
+    padding-left: 20px;
+
+}
+
+.tiny {
+
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+
+}
+
+.navg_text {
+
+    text-decoration: none;
+    position: absolute;
+    left: 2%;
+    text-shadow: 2px 4px 4px rgba(71, 71, 71, 0.6);
+
+}
+
+.about_text {
+
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.credit_text {
+
+    text-align: center;
+    margin-top: 600px;
+    margin-left: 100px;
+
+}
+
+img {
+
+    opacity: 0.7;
+    filter: grayscale(100%);
+    border: 2px solid #000000;
+    background-color: rgb(212, 212, 212);
+    padding: 3px;
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 10x;
+    margin-left: 25px;
+    height: 200px;
+    width: 260px;
+}
+
+img:hover {
+
+    opacity: 1;
+    filter: grayscale(0%);
+    box-shadow: 0 0 10px 3px rgba(111, 111, 111, 0.5);
+
+}
